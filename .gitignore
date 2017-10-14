@@ -2,3 +2,4 @@ data/train_combined/
 data/validation/
 code/.ipynb_checkpoints/*
 code/utils/__pycache__/
+code/.ipynb_checkpoints/segmentation_lab-checkpoint.ipynb
